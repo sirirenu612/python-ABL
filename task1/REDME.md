@@ -125,5 +125,5 @@ else:
     print("Fee after daily limit: Rs.", parking_fee)
     print("Overnight fee: Rs.", overnight_fee)
     print("Penalty: Rs.", penalty)
-    print("Total parking fee: Rs.", total_fee)  ~ ~ ~mermid
+    print("Total parking fee: Rs.", total_fee)  ``` mermid
     
